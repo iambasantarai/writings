@@ -2,7 +2,7 @@
 title: Configure sendmail server on CentOS
 date: 2024/04/18
 description: Sending email with Sendmail MTA (Mail Transfer Agent)
-tag: 8th sem, Network and System Administration
+tag: 8th sem, lab-work, practical, Network and System Administration
 author: Basanta Rai
 ---
 
